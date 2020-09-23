@@ -166,6 +166,7 @@
   .wrapper {
     margin: 20px;
     height: auto;
+    padding: 0px;
   }
 }
 
