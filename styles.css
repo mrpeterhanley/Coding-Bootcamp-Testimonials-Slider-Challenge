@@ -152,6 +152,11 @@
   grid-area: bottom;
 }
 
+footer {
+  text-align: center;
+  margin: 10px 10px;
+}
+
 @media screen and (max-width: 1300px) {
   .photo {
     max-width: 400px;
